@@ -4,5 +4,17 @@
     <string name="app_name">CoverageCalculator</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="square_footage_label">Enter Square Footage</string>
+    <string name="calculate">Calculate</string>
+    <string name="pour_thickness_title">Average Thickness of Pour</string>
+    <string name="eighth_inch_string">1/8\"</string>
+    <string name="quarter_inch_string">1/4\"</string>
+    <string name="half_inch_string">1/2\"</string>
+    <string name="one_inch_string">1\"</string>
+    <string name="three_quarter_inch_string">3/4\"</string>
+    <string name="gallons_of_primer_string">Gallons of Primer</string>
+    <string name="sheets_of_lathe_string">Sheets of Lathe</string>
+    <string name="metal_lathe_string">Metal Lathe 24x96</string>
+    <string name="plastic_lathe_string">Plastic Lathe 27x96</string>
 
 </resources>
